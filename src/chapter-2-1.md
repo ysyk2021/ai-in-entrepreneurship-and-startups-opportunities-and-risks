@@ -1,5 +1,4 @@
-Definition of AI
-==============================================================================
+
 
 Artificial intelligence (AI) is a rapidly evolving field that has the potential to transform entrepreneurship and startups. In this chapter, we will provide an overview of AI and its definition.
 
