@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is transforming entrepreneurship and startups. In this chapter, we will discuss the types of AI used in entrepreneurship and startups.
 
 Types of AI

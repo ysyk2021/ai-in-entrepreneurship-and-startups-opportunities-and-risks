@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) provides numerous opportunities for entrepreneurship and startups, but it also presents potential risks. In this chapter, we will discuss the benefits and risks of AI for startups.
 
 Benefits of AI for Startups

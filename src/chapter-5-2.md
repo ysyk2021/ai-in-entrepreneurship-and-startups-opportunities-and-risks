@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore best practices for data collection and preparation for startups using Artificial Intelligence (AI) algorithms to collect and analyze data.
 
 Data Collection Best Practices

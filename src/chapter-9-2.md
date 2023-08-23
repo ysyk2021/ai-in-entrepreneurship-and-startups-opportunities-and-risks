@@ -1,5 +1,4 @@
 
-
 As startups increasingly adopt AI technologies, it is essential to consider the ethical implications of their use. In this chapter, we will discuss the importance of developing governance frameworks to ensure responsible AI use in startups.
 
 The Importance of Ethics and Governance in AI
