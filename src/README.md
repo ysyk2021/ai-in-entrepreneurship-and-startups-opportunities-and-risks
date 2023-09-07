@@ -8,3 +8,7 @@ In this book, we will explore the opportunities and risks of AI in entrepreneurs
 Whether you are an entrepreneur, startup founder, or business professional interested in harnessing the power of AI, this book is designed to help you stay ahead of the competition while also managing potential risks and challenges. Through a commitment to ethical and responsible use of AI, startups can achieve better outcomes and drive growth in the world of entrepreneurship.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
