@@ -1,5 +1,4 @@
-Chapter 4: Types of AI Used in Entrepreneurship and Startups
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of artificial intelligence (AI) that are commonly used in entrepreneurship and startups. AI technologies have revolutionized the way businesses operate, offering innovative solutions and opportunities for growth. Understanding the different types of AI can help entrepreneurs and startups harness their potential effectively. Let's dive into the types of AI used in entrepreneurship and startups.
 
